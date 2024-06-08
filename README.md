@@ -1,2 +1,2 @@
 # Network-Sniffer
-Network Sniffer Script
+Network Sniffer Python Script
